@@ -1,0 +1,2 @@
+questo componente serve per ottenere una uscita impulsiva da un evento di pressione a livello.
+Per capirne il comportamento vedi la macchina a stati e la simulazione.
